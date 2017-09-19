@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DroidID</string>
+    <string name="about">关于</string>
+    <string name="help">帮助</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="download_mac_app">下载Mac客户端</string>
+    <string name="version">版本</string>
+    <string name="app_des">DroidID 安卓版</string>
+    <string name="about_des">DroidID  可以让您使用安卓手机的指纹传感器来解锁您的Mac电脑</string>
+    <string name="about_lice">DroidID  使用了大量的开源软件:</string>
+    <string name="all_set">完成!</string>
+    <string name="all_set_des">您的Mac已设置完成，若需更改Mac客户端设置，请单击Mac状态栏上的指纹图标</string>
+    <string name="setup_note">请在Mac版应用程序中输入下列代码</string>
+    <string name="ok">确定</string>
+</resources>

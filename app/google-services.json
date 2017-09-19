@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "495524553483",
+    "firebase_url": "https://unlockmac-48538.firebaseio.com",
+    "project_id": "unlockmac-48538",
+    "storage_bucket": "unlockmac-48538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495524553483:android:8aa2e6d7d3c5599a",
+        "android_client_info": {
+          "package_name": "cx.deny.unlockmac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495524553483-12iqs92p11oagn5pg8v77tt9k1f5fsmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdcXubxWAROUMxS4TskC3TyMOMOvfazw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

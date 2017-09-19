@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="cx.deny.unlockmac.MainFragment"
+    android:background="#232937">
+
+
+    <TextView
+        android:id="@+id/textViewVersionNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="63dp"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/all_set"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff"
+        android:textSize="70sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"></TextView>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/all_set_des"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#656973"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unlink"
+        android:id="@+id/button"
+        android:layout_marginBottom="105dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="unlinkDevice" />
+</RelativeLayout>

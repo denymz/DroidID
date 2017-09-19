@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DroidID</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="all_set">All set!</string>
+    <string name="setup_note">Please enter this code exactly in the Mac app</string>
+    <string name="version">Version</string>
+    <string name="about_des">DroidID allows you to use your Android device\'s fingerprint sensor to conviniently unlock your Mac</string>
+    <string name="about_lice">DroidID for Android is made using great open source software:</string>
+    <string name="app_des">DroidID app for Android</string>
+    <string name="download_mac_app">Download Mac app</string>
+    <string name="setting">Settings</string>
+    <string name="all_set_des">Your Mac is set up to use DroidID. To access the Mac app settings, click on the fingerprint icon on your Mac\'s status bar</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
